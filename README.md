@@ -33,10 +33,25 @@ Una vez en la carpeta adecuada, escribo el siguiente comando: **`git clone www.e
     1. **`git add nombre_archivo_cambiado`**
     2. **`git commit -m "mensaje"`** (sustituye "mensaje" por la descrioción del cambio que vaya a commitear)
     3. **`git push origin main`** (sustituye "main" por "master" si tu rama principal se llama así)
- ___
+___
     Ya tenemos subidos nuestros cambios a nuestro repositorio de GitHub.
 ___
-6. Hacer la **PULL REQUEST**. Para ello iremos a nuestro repositorio forkeado de GitHub y haremos "click" en la pestaña `Pull requests`
-Nombre de la pull request [Nombre del lab]Nombre Apellido
-7. Comentario de la pull request (si hay algo en lo que tengo dudas o que se me ha atascado especialmente o memes)
+**6.** Hacer la **PULL REQUEST**. Para ello iremos a nuestro repositorio forkeado de GitHub y haremos "click" en la pestaña `Pull requests`, y después en `New pull request`.
+![img_pull3](https://github.com/Fominayasg/Instrucciones_pull-request/blob/main/images/img_3.jpg).
+
+**7.** Haremos click en `Create pull request`.
+![img_pull4](https://github.com/Fominayasg/Instrucciones_pull-request/blob/main/images/img_4.jpg)
+
+Se nos abrirá un formulario en la que se nos pedirá que introduzcamos el título y mensaje de la pull request.
+
+**8.** Escribimos en el título lo siguiente:
+    `[Nombre-del-lab] Nombre Apellido`
+**9.** Rellenamos el comentario de la pull request siguiendo la siguiente plantilla:
+
+---
+**Nivel de dificultad:** [1-5] *(1 muy fácil, 5 muy difícil)*
+**Último ejercicio terminado**: *Aquí pondremos cuál es el último ejercicio que hemos completado y si nos hemos dejado alguno anterior sin contestar*
+**Dudas**: *Aquí podemos escribir si tenemos alguna duda concreta que no hemos podido resolver*
+
+---
 
