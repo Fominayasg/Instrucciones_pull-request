@@ -16,12 +16,12 @@ También podéis encontrar el link al lab directamente en el **Student Portal**.
 ### Los pasos a seguir son los siguientes:
 
 1. **Forkear**  :fork_and_knife: el repo del lab desde el GitHub de [Ironhack](https://github.com/Ironhack-Data-Madrid-Enero-2022) (aparecerá un repo con el mismo nombre en tu cuenta de GitHub)
-![img_pull1](pegar aqui link a img1)
+![img_pull1](https://github.com/Fominayasg/Instrucciones_pull-request/blob/main/images/img_1.jpg)
 
 2. Copiar el link del nuevo repo de **MI GitHub**.
     1. Pulsar el botón verde **CODE**
     2. Copiar el link
-![img_pull2](pegar aqui link a img2)
+![img_pull2](https://github.com/Fominayasg/Instrucciones_pull-request/blob/main/images/img_2.jpg)
 
 3. Ir a la **terminal** y navegar hasta la carpeta donde yo quiera tener mi lab.
 Una vez en la carpeta adecuada, escribo el siguiente comando: **`git clone www.el-link-a-mi-repo.com`**. Ya tenemos el lab en nuestro ordenador!!! Bien!!
