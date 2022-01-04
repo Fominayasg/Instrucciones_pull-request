@@ -20,30 +20,32 @@ También podéis encontrar el link al lab directamente en el **Student Portal**.
 
 **2**. Copiar el link del nuevo repo de **MI GitHub**.
 
-    1. Pulsar el botón verde **CODE**
-    2. Copiar el link (asegúrate que en el link aparece tu usuario de github)
+1. Pulsar el botón verde **CODE**
+2. Copiar el link (asegúrate que en el link aparece tu usuario de github)
 ![img_pull2](https://github.com/Fominayasg/Instrucciones_pull-request/blob/main/images/img_2.jpg)
 
 **3**. Ir a la **terminal** y navegar hasta la carpeta donde yo quiera tener mi lab.
 Una vez en la carpeta adecuada, escribo el siguiente comando: **`git clone www.el-link-a-mi-repo.com`**. Ya tenemos el lab en nuestro ordenador!!! Bien!!
 
-**4**. Hacemos un **cambio** en algun archivo. Si o lo hacemos, como nuestro código es exacto al del repositorio original, no podremos hacer la pull request.
+**4**. Hacer un **cambio** en algun archivo. Si NO lo hacemos, como nuestro código es exacto al del repositorio original, no podremos hacer la pull request.
 
-**5**. Volvemos a la terminal y asegurándonos de estar en la carpeta principal del repositorio en el que estamos trabajando, ejecutamos los siguientes comandos uno por uno.
-    1. `git status` (veremos los archivos cambiados)
-    1. **`git add nombre_archivo_cambiado`**
-    2. **`git commit -m "mensaje"`** (sustituye "mensaje" por la descrioción del cambio que vaya a commitear)
-    3. **`git push origin main`** (sustituye "main" por "master" si tu rama principal se llama así)
+**5**. Volver a la terminal y asegurándonos de estar en la carpeta principal del repositorio en el que estamos trabajando, ejecutamos los siguientes comandos uno por uno.
+
+    
+1. `git status` (veremos los archivos cambiados)
+2. **`git add nombre_archivo_cambiado`**
+3. **`git commit -m "mensaje"`** (sustituye "mensaje" por la descripción del cambio que se vaya a commitear)
+4. **`git push origin main`** (sustituye "main" por "master" si tu rama principal se llama así)
 ___
     Ya tenemos subidos nuestros cambios a nuestro repositorio de GitHub.
 ___
 **6.** Hacer la **PULL REQUEST**. Para ello iremos a nuestro repositorio forkeado de GitHub y haremos "click" en la pestaña `Pull requests`, y después en `New pull request`.
 ![img_pull3](https://github.com/Fominayasg/Instrucciones_pull-request/blob/main/images/img_3.jpg).
 
-**7.** Haremos click en `Create pull request`.
+**7.** Hacer click en `Create pull request`.
 ![img_pull4](https://github.com/Fominayasg/Instrucciones_pull-request/blob/main/images/img_4.jpg)
 
-Se nos abrirá un formulario en la que se nos pedirá que introduzcamos el título y mensaje de la pull request.
+Se nos abrirá un formulario en el que se nos pedirá que introduzcamos el título y mensaje de la pull request.
 
 **8.** Escribimos en el título lo siguiente:
     `[Nombre-del-lab] Nombre Apellido`
