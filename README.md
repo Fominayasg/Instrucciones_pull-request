@@ -11,7 +11,7 @@ En vuestro caso, la **pull request** va a ser el método de entrega para todos l
 
 Cada día tendréis disponible un nuevo repositorio en la organización de GitHub de [Ironhack](https://github.com/Ironhack-Data-Madrid-Enero-2022) con el lab correspondiente al material dado durante las clases.
 
-También podéis encontrar el link al lab directamente en el **Student Portal**.
+También podéis encontrar el link al lab directamente en el [Student Portal](https://my.ironhack.com/).
 
 ### Los pasos a seguir son los siguientes:
 
@@ -32,7 +32,7 @@ Una vez en la carpeta adecuada, escribo el siguiente comando: **`git clone www.e
 **5**. Volver a la terminal y asegurándonos de estar en la carpeta principal del repositorio en el que estamos trabajando, ejecutamos los siguientes comandos uno por uno.
 
     
-1. `git status` (veremos los archivos cambiados)
+1. **`git status`** (veremos los archivos cambiados)
 2. **`git add nombre_archivo_cambiado`**
 3. **`git commit -m "mensaje"`** (sustituye "mensaje" por la descripción del cambio que se vaya a commitear)
 4. **`git push origin main`** (sustituye "main" por "master" si tu rama principal se llama así)
@@ -43,6 +43,7 @@ ___
 ![img_pull3](https://github.com/Fominayasg/Instrucciones_pull-request/blob/main/images/img_3.jpg).
 
 **7.** Hacer click en `Create pull request`.
+
 ![img_pull4](https://github.com/Fominayasg/Instrucciones_pull-request/blob/main/images/img_4.jpg)
 
 Se nos abrirá un formulario en el que se nos pedirá que introduzcamos el título y mensaje de la pull request.
@@ -52,9 +53,18 @@ Se nos abrirá un formulario en el que se nos pedirá que introduzcamos el títu
 **9.** Rellenamos el comentario de la pull request siguiendo la siguiente plantilla:
 
 ---
-**Nivel de dificultad:** [1-5] *(1 muy fácil, 5 muy difícil)*
-**Último ejercicio terminado**: *Aquí pondremos cuál es el último ejercicio que hemos completado y si nos hemos dejado alguno anterior sin contestar*
-**Dudas**: *Aquí podemos escribir si tenemos alguna duda concreta que no hemos podido resolver*
+- **Nivel de dificultad:** [1-5] *(1 muy fácil, 5 muy difícil)*
+- **Último ejercicio terminado**: *Aquí pondremos cuál es el último ejercicio que hemos completado y si nos hemos dejado alguno anterior sin contestar*
+- **Dudas**: *Aquí podemos escribir si tenemos alguna duda concreta que no hemos podido resolver*
 
 ---
 
+## 🧠¿Y ahora cómo continuo?🧠
+
+Una vez hecha la *pull resquest* puedes continuar resolviendo el lab. 
+
+Cada poco tiempo (cuando resuelvas un ejercicio complicado o lleves 3 o 4 ejercicios) acuerdate de repetir el paso 5 para que tus cambios se vayan subiendo a GitHub.
+
+Puedes repetir el paso 5 tantas veces como quieras, y tus cambios quedarán actualizados en GitHub. De esta manera cuando revisemos tu pull request, podremos ver la última versión de tu lab.
+
+Y ahora... ¡¡A trabajar Ironhacker!! :rocket: :rocket: :rocket: :rocket:
