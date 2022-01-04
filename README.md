@@ -19,8 +19,9 @@ También podéis encontrar el link al lab directamente en el **Student Portal**.
 ![img_pull1](https://github.com/Fominayasg/Instrucciones_pull-request/blob/main/images/img_1.jpg)
 
 **2**. Copiar el link del nuevo repo de **MI GitHub**.
+
     1. Pulsar el botón verde **CODE**
-    2. Copiar el link
+    2. Copiar el link (asegúrate que en el link aparece tu usuario de github)
 ![img_pull2](https://github.com/Fominayasg/Instrucciones_pull-request/blob/main/images/img_2.jpg)
 
 **3**. Ir a la **terminal** y navegar hasta la carpeta donde yo quiera tener mi lab.
