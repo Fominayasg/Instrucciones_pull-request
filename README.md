@@ -50,6 +50,7 @@ Se nos abrirá un formulario en el que se nos pedirá que introduzcamos el títu
 
 **8.** Escribimos en el título lo siguiente:
     `[Nombre-del-lab] Nombre Apellido`
+    
 **9.** Rellenamos el comentario de la pull request siguiendo la siguiente plantilla:
 
 ---
