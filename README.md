@@ -1,5 +1,5 @@
 # ¿Qué es una *pull request*?
-![portada](https://media.makeameme.org/created/look-pull-requests.jpg)
+![portada](https://github.com/Fominayasg/Instrucciones_pull-request/blob/main/images/look-pull-requests.jpeg)
 
 Una pull request es una petición de validación de cambios que se hace a un repositorio.
 
@@ -50,7 +50,7 @@ Se nos abrirá un formulario en el que se nos pedirá que introduzcamos el títu
 
 **8.** Escribimos en el título lo siguiente:
     `[Nombre-del-lab] Nombre Apellido`
-    
+
 **9.** Rellenamos el comentario de la pull request siguiendo la siguiente plantilla:
 
 ---
