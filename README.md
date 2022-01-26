@@ -1,7 +1,7 @@
 # ¿Qué es una *pull request*?
 ![portada](https://github.com/Fominayasg/Instrucciones_pull-request/blob/main/images/look-pull-requests.jpeg)
 
-Una pull request es una petición de validación de cambios que se hace a un repositorio.
+Una pull request es una petición de validación de cambios que se hace a un repositorio.afsa
 
 Es la manera en la que se muestra una sugerencia de cambio sobre el código del repositorio original.
 
