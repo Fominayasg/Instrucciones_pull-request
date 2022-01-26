@@ -3,7 +3,6 @@
 
 
 
-Es la manera en la que se muestra una sugerencia de cambio sobre el código del repositorio original.
 
 En vuestro caso, la **pull request** va a ser el método de entrega para todos los labs durante este bootcamp.
 
