@@ -1,9 +1,8 @@
 # ¿Qué es una *pull request*?
 ![portada](https://github.com/Fominayasg/Instrucciones_pull-request/blob/main/images/look-pull-requests.jpeg)
 
-Una pull request es una petición de validación de cambios que se hace a un repositorio.
 
-Es la manera en la que se muestra una sugerencia de cambio sobre el código del repositorio original.
+
 
 En vuestro caso, la **pull request** va a ser el método de entrega para todos los labs durante este bootcamp.
 
@@ -69,3 +68,5 @@ Cada poco tiempo (cuando resuelvas un ejercicio complicado o lleves 3 o 4 ejerci
 Puedes repetir el paso 5 tantas veces como quieras, y tus cambios quedarán actualizados en GitHub. De esta manera cuando revisemos tu pull request, podremos ver la última versión de tu lab.
 
 Y ahora... ¡¡A trabajar Ironhacker!! :rocket: :rocket: :rocket: :rocket:
+
+Añado una línea SÚPER guay
